@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-02T09:20:14 IST" name="Default suite" finished-at="2021-04-02T09:20:30 IST" duration-ms="15191">
+    <groups>
+    </groups>
+    <test started-at="2021-04-02T09:20:14 IST" name="Default test" finished-at="2021-04-02T09:20:30 IST" duration-ms="15191">
+      <class name="seleniumflipkart.FlipkartTestPage">
+        <test-method signature="getPriceModulenameReviewOfIphone()[pri:0, instance:seleniumflipkart.FlipkartTestPage@23f7d05d]" started-at="2021-04-02T09:20:14 IST" name="getPriceModulenameReviewOfIphone" finished-at="2021-04-02T09:20:29 IST" duration-ms="15100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPriceModulenameReviewOfIphone -->
+      </class> <!-- seleniumflipkart.FlipkartTestPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
